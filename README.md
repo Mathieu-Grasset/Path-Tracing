@@ -3,9 +3,9 @@
 Les seuls fichiers modifiés par rapport à l'archive de départ sont : 
 
 Pour l'algo
-Path-Tracing/tp/montecarlo.frag 
-Path-Tracing/tp/montecarlo_mat.frag 
-Path-Tracing/tp/montecarlo_mat_tr.frag
+PROJET_RT/tp/montecarlo.frag 
+PROJET_RT/tp/montecarlo_mat.frag 
+PROJET_RT/tp/montecarlo_mat_tr.frag
 
 Pour tester l'échantillonnage
-Path-Tracing/tp/hsphere_wrong_sampling.vert
+PROJET_RT/tp/hsphere_wrong_sampling.vert
